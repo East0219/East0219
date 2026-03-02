@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=East0219&show_icons=true&theme=shadow_green" />
 </p>
 
