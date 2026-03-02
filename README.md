@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=East0219&show_icons=true&theme=shadow_green&hide_border=true" alt="East0219's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=East0219&show_icons=true&theme=shadow_green" />
 </p>
 
 ---
